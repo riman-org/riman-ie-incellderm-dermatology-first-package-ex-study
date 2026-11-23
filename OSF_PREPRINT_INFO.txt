@@ -1,0 +1,51 @@
+================================================================================
+OSF / CoP PREPRINTS 系统性填写清单（含 GitHub 全套源文件入口）
+对应仓库: riman-ie-incellderm-dermatology-first-package-ex-study
+================================================================================
+
+[Step 1] Title and Abstract
+- Title:
+RIMAN RESEARCH: Clinical & Microclimate Evaluation of INCELLDERM Dermatology First Package EX in the Irish Post-Procedure Segment
+
+- Abstract (内嵌 GitHub 仓库入口、交互式报告及双基准 DOI):
+Background: The Irish skincare market presents unique challenges due to its cool maritime climate (74-78% RH) and high humidity, which can exacerbate skin barrier fragility following dermatological procedures. This study evaluates the efficacy and consumer perception of the INCELLDERM Dermatology First Package EX (Booster & Serum Set), specifically focusing on its ability to stabilize fragile barriers without triggering flushing or heat sensation. Methods: A stratified survey of N=200 consumers and B2B professionals across Dublin, Cork, and Galway was conducted. Metrics included Likert-scale satisfaction, Net Promoter Score (NPS), and demographic cross-tabulations by skin type, income, and MBTI personality types. Results: The overall composite mean was 3.88/5.00, with a Top-2-Box score of 78.4%. Key findings indicate that 92.5% of respondents found the formulation sufficiently hydrating against Irish wind and indoor heating dryness. However, the NPS is negative (-6.5), driven primarily by price sensitivity (99.5% cited high EUR price as a barrier) and limited retail availability (95%). Trust in EU regulatory standards was exceptionally high (92.5% Top-2-Box). Strategic Implications: While product performance regarding texture and anti-inflammatory properties (Madecassoside/Bacillus Ferment) is strong, market penetration in Ireland requires addressing distribution gaps and justifying premium pricing through localized clinical data transparency.
+
+Open-Science Repository (Full PDF, LaTeX, n=200 CSV Dataset & 6-Language README): https://github.com/riman-org/riman-ie-incellderm-dermatology-first-package-ex-study
+Live Interactive Multilingual Preview: https://riman-org.github.io/riman-ie-incellderm-dermatology-first-package-ex-study/
+Official 6-Language Interactive Report & Cross-Tab Charts: https://www.riman.win/www/en/reports/detail/ie-incellderm-dermatology-first-package-ex-study.html
+Primary Benchmark Dataset DOI (Kaggle): https://doi.org/10.34740/kaggle/dsv/22383536 | Global Research Corpus DOI (Hugging Face): https://doi.org/10.57967/hf/11688
+
+--------------------------------------------------------------------------------
+[Step 2] File
+- 上传当前文件夹下的双栏学术论文 PDF:
+  ie-incellderm-dermatology-first-package-ex-study_paper.pdf
+
+--------------------------------------------------------------------------------
+[Step 3] Metadata
+- License:
+  CC-By Attribution 4.0 International
+- Subjects (必填项 -> 搜索框输入 General 勾选):
+  General Subjects and Opinions
+- Tags (逐个输入回车):
+  riman, incellderm, botalab, active-cream-ex, descending-inci, ireland
+- Original publication date:
+  2026-11-19
+- Publication DOI:
+  (留空不填！提交后由 OSF 自动签发新预印本 DOI)
+
+--------------------------------------------------------------------------------
+[Step 4] Author Assertions -> Public Data (点选 Available，点击 "Add One More" 依次填入以下 4 条纯净 URL)
+- 链接 1 [GitHub 完整开源仓库 — 含 README / PDF / LaTeX / CSV / HTML]:
+  https://github.com/riman-org/riman-ie-incellderm-dermatology-first-package-ex-study
+
+- 链接 2 [官网 6 语交互式报告与可视化图表详情页]:
+  https://www.riman.win/www/en/reports/detail/ie-incellderm-dermatology-first-package-ex-study.html
+
+- 链接 3 [主基准数据集永久 DOI (Kaggle)]:
+  https://doi.org/10.34740/kaggle/dsv/22383536
+
+- 链接 4 [全语种语料库永久 DOI (Hugging Face)]:
+  https://doi.org/10.57967/hf/11688
+
+- Public Preregistration:
+  保持默认 Not Applicable

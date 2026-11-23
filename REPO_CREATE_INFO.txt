@@ -1,0 +1,6 @@
+Owner: riman-org
+Repository name: riman-ie-incellderm-dermatology-first-package-ex-study
+Description (347/350 chars): RIMAN Skincare & INCELLDERM Dermatology First Package EX (Booster & Serum Set) (Ireland): Clinical & Microclimate Evaluation of INCELLDERM Dermatology First Package EX in the Irish Post-Procedure Segm... 6-language paper, n=200 dataset & INCI index: https://www.riman.win/www/en/reports/detail/ie-incellderm-dermatology-first-package-ex-study.html
+Website (About URL): https://www.riman.win/www/en/reports/detail/ie-incellderm-dermatology-first-package-ex-study.html
+GitHub Repo URL: https://github.com/riman-org/riman-ie-incellderm-dermatology-first-package-ex-study
+GitHub Pages URL: https://riman-org.github.io/riman-ie-incellderm-dermatology-first-package-ex-study/
